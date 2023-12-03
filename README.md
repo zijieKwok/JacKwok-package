@@ -8,7 +8,7 @@
 </div>
 
 
-#### small-package
+#### JacKwok-package
 
 *  常用OpenWrt软件包源码合集，同步上游更新！
 
@@ -16,9 +16,6 @@
 
 *  感谢以上github仓库所有者！
 
-##### 插件下载:
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/kenzok8/compile-package?style=for-the-badge&label=插件更新下载)](https://github.com/kenzok8/compile-package/releases/latest)
 
 #### 使用方式：
 
